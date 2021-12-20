@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "we are bringing flowers",
+            "heading": "we are bringing flowersss",
             "heading_size": "medium"
           }
         },
@@ -27,7 +27,6 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/our-heart-of-gold-box-03.jpg",
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "flex-end",
